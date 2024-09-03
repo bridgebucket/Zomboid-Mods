@@ -1,0 +1,30 @@
+IGUI_ARF = {
+    IGUI_PlayerText_KnowSkill = "Puppy knows this...",
+    IGUI_PlayerText_BookObsolete = "Mmh, this book SUCKS",
+    IGUI_PlayerText_DontUnderstand = "Puppy doesn't understand",
+    IGUI_PlayerText_TooComplicated = "Puppy is too stupid :(",
+    IGUI_PlayerText_DontGet = "grrrrrrrrrrrrrrrrrr meaningless",
+    IGUI_PlayerText_NoWayToFuelTankInlet = "Where is itttttt :(",
+    IGUI_PlayerText_Callout1 = "Woof!",
+    IGUI_PlayerText_Callout2 = "Bark!",
+    IGUI_PlayerText_Callout3 = "Arf!",
+    IGUI_PlayerText_Callout1New = "WOOF!",
+    IGUI_PlayerText_Callout2New = "BARK!",
+    IGUI_PlayerText_Callout3New = "ARF!",
+    IGUI_PlayerText_Callout1Sneak = "grrr!",
+    IGUI_PlayerText_Callout2Sneak = "*snarl*",
+    IGUI_PlayerText_Callout3Sneak = "yip!",
+    IGUI_PlayerText_CalloutTutorial = "Puppy craves DEATH!!!",
+    IGUI_PlayerText_VehicleSomeoneInSeat = "Can't puppy sit on your lap? :("
+    IGUI_PlayerText_VehicleItemInSeat = "That thing will hurt puppy's butt"
+    IGUI_PlayerText_VehicleLockIsBroken = "What the fuck"
+    IGUI_PlayerText_VehicleSeatRemoved = "What the fuck"
+    IGUI_PlayerText_DoorBarricaded = "Let me in please :("
+    IGUI_PlayerText_DoorBlocked = "LET ME IN PLEEASEE :(((("
+    
+    IGUI_PlayerText_CanNotExitFromMovingCar = "The ground is moving and it scares puppy :(",
+    IGUI_PlayerText_CanNotSleepInMovingCar = "Too loud!",
+
+    IGUI_Emote_Shout = "Bark",
+}
+
