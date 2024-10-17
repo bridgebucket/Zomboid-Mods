@@ -1,0 +1,13 @@
+name=Real-Time Farming
+id=RTFarming
+modVersion=1.25
+poster=poster.png
+poster=poster1.png
+icon=icon.png
+description=This mod turns farming from a long stressful timesink that only rewards you after 2 weeks of constant starvation <LINE>
+description=into an instant gratification mechanic that is more suitable for short-term play sessions. Or you can turn it into an actual 336 hour venture. (Horrifying). <LINE>
+description= <LINE>
+description=Your crops will grow based on real life minutes, allowing for ultimate customizability. In my testing, integers that are multiples of 5 work the best. <LINE>
+tags=Build 41,Food,Misc,Multiplayer
+url=https://github.com/bridgebucket/
+authors=spyware

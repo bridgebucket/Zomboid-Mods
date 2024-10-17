@@ -1,0 +1,17 @@
+module toy_bone {
+	imports {
+		Base
+	}
+	
+	item toy_bone {
+		DisplayName					= Toy Bone,
+		Icon						= toy_bone,
+		Weight						= 0.05,
+		DisplayCategory				= Toy,
+		SubCategory					= Chew,
+		Tags						= Play,
+		Tooltip						= Tooltip_toy_bone,
+		WorldStaticModel			= toy_bone,
+	}
+}
+		

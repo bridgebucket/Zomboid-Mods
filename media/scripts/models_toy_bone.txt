@@ -1,7 +1,0 @@
-module toy_bone {
-	model toy_bone {
-		mesh = toy_bone,
-		texture = toy_bone,
-		scale = 0.0007,
-	}
-}

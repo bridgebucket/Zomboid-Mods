@@ -1,3 +1,0 @@
-ItemName_EN = {
-	ItemName_toy_bone.toy_bone = "Toy Bone",
-}

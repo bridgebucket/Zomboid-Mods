@@ -1,0 +1,8 @@
+Sandbox_EN = {
+    Sandbox_RTFarming = "Real-Time Farming"
+    Sandbox_RTFarming_EnableRTFarm = "Mod Enabled",
+    Sandbox_RTFarming_RTFarmTime = "Crop Growth Time",
+    Sandbox_RTFarming_RTFarmTime_tooltip = "How long, in minutes, should a planted seed take to fully mature?",
+    Sandbox_RTFarming_DisableNPK = "Disable Fertilizer Spawning"
+    Sandbox_RTFarming_DisableNPK_tooltip = "There's a strange and unpredictable bug with NPK Fertilizer where using it will, in most cases, reset the next growth phase time to vanilla values. It's easiest to just remove fertilizer spawns from the table altogether, as this mod makes it unnecessary anyways."
+}

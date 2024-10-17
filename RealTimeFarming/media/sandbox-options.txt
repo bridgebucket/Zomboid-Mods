@@ -1,0 +1,23 @@
+VERSION = 1,
+
+option RTFarming.EnableRTFarm {
+    type = boolean,
+    default = true,
+    page = RTFarming,
+    translation = RTFarming_EnableRTFarm,
+}
+
+option RTFarming.DisableNPK {
+    type = boolean,
+    default = true,
+    page = RTFarming,
+    translation = RTFarming_DisableNPK,
+}
+
+option RTFarming.RTFarmTime {
+    type = double,
+    min = 20, max = 100000,
+    default = 60.0,
+    page = RTFarming,
+    translation = RTFarming_RTFarmTime,
+}

@@ -1,3 +1,0 @@
-Tooltip_ARF = {
-	Tooltip_toy_bone = "BONE!! BONE!! PLAY???",
-}

@@ -1,3 +1,0 @@
-ItemName_ARF = {
-	ItemName_toy_bone.toy_bone = "Bone?!? Bone!!!",
-}

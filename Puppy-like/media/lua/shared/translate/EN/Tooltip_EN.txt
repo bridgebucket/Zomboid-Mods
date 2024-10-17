@@ -1,0 +1,3 @@
+Tooltip_EN = {
+	Tooltip_toy_bone = "A squeaky toy bone for dogs.",
+}

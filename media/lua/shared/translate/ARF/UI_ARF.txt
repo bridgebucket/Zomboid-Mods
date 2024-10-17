@@ -1,7 +1,0 @@
-UI_ARF = { 
-    UI_trait_Puppylike = "Puppy-like",
-    UI_trait_Puppylikeheader = "Who's a good puppy? You are! Oh, you are!",
-    UI_trait_Puppylikepoint1 = "- Loves dog food,",
-    UI_trait_Puppylikepoint2 = "- Wear a collar,",
-    UI_trait_Puppylikepoint3 = "- Keep close to owner :-)",
-}
