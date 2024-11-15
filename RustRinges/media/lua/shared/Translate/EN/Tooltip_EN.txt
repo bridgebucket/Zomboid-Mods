@@ -1,0 +1,10 @@
+Tooltip_EN = {
+	Tooltip_PercentTenRinge = "A solution for healing 10% of internal vitals.",
+	Tooltip_PercentTwentyfiveRinge = "A solution for healing 25% of internal vitals.",
+	Tooltip_PercentFiftyRinge = "The fullest Internavite solution for healing 50% of internal vitals.",
+	Tooltip_PercentFullRinge = "A more intense concentration of Internavite for healing 100% of internal vitals.",
+	Tooltip_PercentDeathRinge = "Debug syringe that brings health to 1%",
+	Tooltip_InstantReliefRinge = "A solution to provide instant relief for most gastrointestinal diseases. Also solves rot conditions?",
+	Tooltip_ThePristineCondition = "Cures most ailments.",
+	Tooltip_ThePristineCondition = "Cures all ailments. Fixes human shortcomings. Makes your teeth taste like mayonnaise.",
+}

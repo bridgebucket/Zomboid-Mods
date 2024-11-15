@@ -1,0 +1,19 @@
+module Base
+{
+	sound LANParty
+    {
+        category = Player,
+        clip
+        {
+            file = media/sound/LANParty.ogg,
+        }
+    }
+	sound NNEKA
+    {
+        category = Player,
+        clip
+        {
+            file = media/sound/NNEKA.ogg,
+        }
+    }
+}

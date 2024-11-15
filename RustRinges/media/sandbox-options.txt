@@ -1,0 +1,29 @@
+VERSION = 1,
+
+option RustRinges.LowHealthRinges {
+    type = boolean,
+    default = true,
+    page = RustRinges,
+    translation = RustRinges_LowHealthRinges,
+}
+
+option RustRinges.HighHealthRinges {
+    type = boolean,
+    default = true,
+    page = RustRinges,
+    translation = RustRinges_HighHealthRinges,
+}
+
+option RustRinges.SpecializedRinges {
+    type = boolean,
+    default = true,
+    page = RustRinges,
+    translation = RustRinges_SpecializedRinges,
+}
+
+option RustRinges.ZomboRinges {
+    type = boolean,
+    default = false,
+    page = RustRinges,
+    translation = RustRinges_ZomboRinges,
+}

@@ -1,0 +1,159 @@
+module RustRinges
+{
+
+    imports {   Base    }
+
+    model PercentaRinge
+    {
+        mesh = RingesModel,
+        texture = PercentaRingeTex,
+        scale = 0.04,
+    }
+    model PercentaRinge_World
+    {
+        mesh = RingesModel_W,
+        texture = PercentaRingeTex,
+        scale = 0.04,
+    }
+    model SpecializaRinges
+    {
+        mesh = RingesModel,
+        texture = SpecializaRingeTex,
+        scale = 0.04,
+    }
+    model SpecializaRinges_World
+    {
+        mesh = RingesModel_W,
+        texture = SpecializaRingeTex,
+        scale = 0.04,
+    }
+    model ThePristineCondition
+    {
+        mesh = RingesModel,
+        texture = ThePristineConditionTex,
+        scale = 0.04,
+    }
+    model ThePristineCondition_World
+    {
+        mesh = RingesModel_W,
+        texture = ThePristineConditionTex,
+        scale = 0.04,
+    }
+
+
+
+
+
+	item PercentTenRinge
+    {
+        DisplayName			= PercentTenRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.1,
+        Icon				= PercentaRinge,
+        Tooltip             = Tooltip_PercentTenRinge,
+        Medical             = TRUE,
+
+        StaticModel         = PercentaRinge,
+        WorldStaticModel	= PercentaRinge_World,
+    }
+	item PercentTwentyfiveRinge
+    {
+        DisplayName			= PercentTwentyfiveRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.1,
+        Icon				= PercentaRinge,
+        Tooltip             = Tooltip_PercentTwentyfiveRinge,
+        Medical             = TRUE,
+
+        StaticModel         = PercentaRinge,
+        WorldStaticModel	= PercentaRinge_World,
+    }
+	item PercentFiftyRinge
+    {
+        DisplayName			= PercentFiftyRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.1,
+        Icon				= PercentaRinge,
+        Tooltip             = Tooltip_PercentFiftyRinge,
+        Medical             = TRUE,
+
+        StaticModel         = PercentaRinge,
+        WorldStaticModel	= PercentaRinge_World,
+    }
+	item PercentFullRinge
+    {
+        DisplayName			= PercentFullRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.1,
+        Icon				= PercentaRingeFull,
+        Tooltip             = Tooltip_PercentFullRinge,
+        Medical             = TRUE,
+
+        StaticModel         = PercentaRinge,
+        WorldStaticModel	= PercentaRinge_World,
+    }
+	item PercentDeathRinge
+    {
+        DisplayName			= PercentDeathRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.1,
+        Icon				= PercentaRingeFull,
+        Tooltip             = Tooltip_PercentDeathRinge,
+        Medical             = TRUE,
+
+        StaticModel         = PercentaRinge,
+        WorldStaticModel	= PercentaRinge_World,
+    }
+    
+
+
+
+    item InstantReliefRinge
+    {
+        DisplayName			= InstantReliefRinge,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 0.2,
+        Icon				= InstantReliefRinge,
+        Tooltip             = Tooltip_InstantReliefRinge,
+        Medical             = TRUE,
+
+        StaticModel         = SpecializaRinges,
+        WorldStaticModel	= SpecializaRinges_World,
+    }
+
+
+
+
+	item ThePristineCondition
+    {
+        DisplayName			= ThePristineCondition,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 1.1,
+        Icon				= ThePristineCondition,
+        Tooltip             = Tooltip_ThePristineCondition,
+        Medical             = TRUE,
+
+        StaticModel         = SpecializaRinges,
+        WorldStaticModel	= SpecializaRinges_World,
+    }
+	item ThePristineCondition35
+    {
+        DisplayName			= ThePristineCondition35,
+        DisplayCategory 	= FirstAid,
+        Type				= Normal,
+		Weight				= 1.1,
+        Icon				= ThePristineCondition35,
+        Tooltip             = Tooltip_ThePristineCondition35,
+        Medical             = TRUE,
+
+        StaticModel         = SpecializaRinges,
+        WorldStaticModel	= SpecializaRinges_World,
+    }
+}

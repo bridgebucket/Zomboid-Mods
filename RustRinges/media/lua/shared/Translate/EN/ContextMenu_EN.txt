@@ -1,0 +1,4 @@
+ContextMenu_EN = {
+	ContextMenu_InjectRinge = "Inject Syringe",
+	ContextMenu_InjectingRinge = "Injecting...",
+}

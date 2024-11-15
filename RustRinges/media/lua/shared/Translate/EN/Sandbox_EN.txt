@@ -1,0 +1,9 @@
+Sandbox_EN = {
+    Sandbox_RustRinges = "Harvest's Injectables"
+    Sandbox_RustRinges_LowHealthRinges = "Spawn 10%, 25%, 50% syringes"
+    Sandbox_RustRinges_HighHealthRinges = "Spawn 100% syringes",
+    Sandbox_RustRinges_SpecializedRinges = "Spawn syringes that specialize in unique statuses",
+    Sandbox_RustRinges_SpecializedRinges_tooltip = "This option will get more use with DLC01!! Currently it just controls spawns for the Pristine Condition.",
+    Sandbox_RustRinges_ZomboRinges = "Spawn zombie cure syringes (rarely) in regular medical supply pools.",
+    Sandbox_RustRinges_ZomboRinges_tooltip = "This option includes both \"The Pristine Condition 3.5\" as well as \"Instant Relief Solution\" syringes, as they both cure zombie virus.",
+}
