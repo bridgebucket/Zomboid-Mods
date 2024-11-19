@@ -106,6 +106,7 @@ function ISInjectionAction:perform()
 
 	if iType:contains("ThePristineCondition") or iType:contains("ThePristineCondition35") then
         local bodyDamage = self.character:getBodyDamage()
+        local isinfectedbefore = bodyDamage:IsInfected()
 
         -- Fixes player condition...
         bodyDamage:RestoreToFullHealth()
@@ -129,9 +130,11 @@ function ISInjectionAction:perform()
             bodyDamage:setInfected(false)
             print("A player took a Pristine Condition 3.5.")
         else
-            -- ...and doesn't remove zombie infection
-            bodyDamage:setInfected(true)
-            bodyDamage:setInfectionLevel(0)
+            if isinfectedbefore == true then
+                -- ...and doesn't remove zombie infection
+                bodyDamage:setInfected(true)
+                bodyDamage:setInfectionLevel(0)
+            end
             print("A player took a Pristine Condition.")
 	    end
     end
