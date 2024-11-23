@@ -1,0 +1,8 @@
+name=Beltless
+id=beltless
+modVersion=1.0
+poster=poster.png
+icon=icon.png
+description=Removes belt from your inventory on spawn. <LINE>
+url=https://github.com/bridgebucket/
+authors=spyware
